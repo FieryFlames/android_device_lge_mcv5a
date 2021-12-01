@@ -1,4 +1,4 @@
-LOCAL_PATH := device/lge/mcv5a
+LOCAL_PATH := device/nokia/CO2
 
 # A/B
 AB_OTA_PARTITIONS += \

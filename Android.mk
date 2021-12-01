@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),mcv5a)
+ifeq ($(TARGET_DEVICE),CO2)
 
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
